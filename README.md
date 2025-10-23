@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/87a4f6cc-3d39-4dc0-8306-1f69adcf0c18
+**URL**:https://sleepscore-buddy.vercel.app/
 
 ## How can I edit this code?
 
